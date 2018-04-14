@@ -169,7 +169,7 @@ var konopas = new KonOpas({
 	'show_all_days_by_default': true,
 	'use_server': false
 });
-$.getJSON("https://openspaceappjbe.herokuapp.com/v1/konopas", function(data){
+$.getJSON("https://openspaceapp-socracan2018.herokuapp.com/v1/konopas", function(data){
 	program = data;
 	}).done(function(){
 		konopas.set_program(program, {
