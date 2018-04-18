@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html><!-- manifest="konopas.appcache" -->
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../skin/konopas.css">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui">
+
+    <!-- Android + favicon -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="shortcut icon" sizes="196x196" href="../skin/favicon.196.png">
+
+    <!-- iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <title>SoCraCan 2018</title>
+
+<body>
+<div id="top"></div>
+<div id="load_disable"></div>
+
+<div id="time"></div>
+<div id="scroll"><a href="#top" id="scroll_link" data-txt>Scroll up</a></div>
+
+<div id="banner">
+    <div id="server_connect"></div>
+
+    <h1><a href="#info" alt="SoCraCan 2018" title="SoCraCan 2018">
+        <img id="title-small" src="../skin/logo_socracan.svg" style="width: 240px;">
+        <img id="title" src="../skin/logo_socracan.svg" style="width: 200px;"></a></h1>
+
+    <ul id="tabs">
+        <li id="tab_star"><a href="#star" data-txt>My con</a>
+        <li id="tab_prog"><a href="#" data-txt>Program</a>
+            <div id="day-sidebar" class="sub-side"></div>
+        <li id="tab_info"><a href="#info" data-txt>Info</a>
+    </ul>
+
+    <div id="refresh"><i class="refresh_icon"></i><span data-txt>Refresh data</span></div>
+</div>
+
+<div id="main">
+
+    <div id="star_view" class="view">
+        <div id="star_data"></div>
+    </div>
+
+    <div id="prog_view" class="view">
+        <div id="prog_filters" class="filters">
+            <div id="prog_lists"></div>
+            <form name="search" id="search">
+                <input type="text" id="q" required data-txt="Search" data-txt-attr="placeholder">
+                <div id="q_ctrl">
+                    <input type="submit" id="q_submit" data-txt="Go" data-txt-attr="value">
+                    <input type="reset" id="q_clear" data-txt="Clear all" data-txt-attr="value">
+                </div>
+                <div id="q_hint" class="hint"></div>
+            </form>
+            <div id="filter_sum"></div>
+        </div>
+        <div id="day-narrow" class="sub-narrow"></div>
+    </div>
+
+    <div id="part_view" class="view">
+        <div id="part-narrow" class="sub-narrow"></div>
+        <ul id="part_names"></ul>
+        <div id="part_info"></div>
+    </div>
+
+    <div id="info_view" class="view">
+        <p>This is the programme guide for <a href="http://socracan.com/">SoCraCan 2018</a>. It should be suitable for use on
+            most browsers and devices. It's an instance of <a href="http://konopas.org/">KonOpas</a>, an open-source project providing conventions with easy-to-use mobile-friendly guides.<p>
+        <div id="last-updated">Programme and participant data were last updated <span></span>.</div>
+
+        <div id="install-instructions">
+            <p>This guide will work in your browser even when you don't have an internet connection.
+            <h4 class="collapse">You can also install it as a home screen app</h4>
+            <dl class="compact-dl">
+                <dt>Safari on iPhone/iPad
+                <dd>Tap on <i class="ios_share_icon"></i> (share), then tap <b>Add to Home Screen</b>.
+                <dt>Chrome on Android
+                <dd>Tap on <i class="android_menu_icon"></i> (menu), then tap <b>Add to Home Screen</b>.
+                <dt>Firefox on Android
+                <dd>Tap on <i class="android_menu_icon"></i> (menu), then tap <b>Bookmark</b> and select <b>Options</b>, and <b>Add to Home Screen</b>.
+                <dt>IE on Windows Phone
+                <dd>Tap on <i class="ie_menu_icon"></i> (menu), then tap <b>Pin to Start</b>
+            </dl>
+        </div>
+        <script>
+            if (navigator.standalone) document.getElementById('install-instructions').style.display = 'none';
+        </script>
+    </div>
+
+    <div id="prog_ls" class="ls"><br>
+        <div class="ls_loading">Loading programme data&hellip;</div>
+    </div>
+
+</div><!-- /main -->
+
+<script src="../konopas.min.js"></script>
+<script>
+    var konopas = new KonOpas({
+        'id': 'socracan2018',
+        'default_duration': 50,
+        'time_show_am_pm': false,
+        'show_all_days_by_default': true,
+        'use_server': false
+    });
+    $.getJSON("https://openspaceapp-socracan2018.herokuapp.com/v1/konopas", function (data) {
+        program = data;
+    }).done(function () {
+        konopas.set_program(program, {
+            'day': {},
+            'area': {},
+            'tag': {}
+        });
+        konopas.set_view();
+    });
+</script>
