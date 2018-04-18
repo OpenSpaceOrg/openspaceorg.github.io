@@ -5,16 +5,13 @@
     <link rel="stylesheet" href="../skin/konopas.css">
     <meta name="HandheldFriendly" content="true">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui">
-
     <!-- Android + favicon -->
     <meta name="mobile-web-app-capable" content="yes">
     <link rel="shortcut icon" sizes="196x196" href="../skin/favicon.196.png">
-
     <!-- iOS -->
     <meta name="apple-mobile-web-app-capable" content="yes">
-
-    <title>SoCraCan 2018</title>
-
+    <title>SoCraTes 2017</title>
+</head>
 <body>
 <div id="top"></div>
 <div id="load_disable"></div>
@@ -25,9 +22,9 @@
 <div id="banner">
     <div id="server_connect"></div>
 
-    <h1><a href="#info" alt="SoCraCan 2018" title="SoCraCan 2018">
-        <img id="title-small" src="../skin/logo_socracan.svg" style="width: 240px;">
-        <img id="title" src="../skin/logo_socracan.svg" style="width: 200px;"></a></h1>
+    <h1><a href="#info" alt="SoCraTes 2017" title="SoCraTes 2017">
+        <img id="title-small" src="../skin/socrates2017_logo.png" style="width: 240px;">
+        <img id="title" src="../skin/socrates2017_logo.png" style="width: 200px;"></a></h1>
 
     <ul id="tabs">
         <li id="tab_star"><a href="#star" data-txt>My con</a>
@@ -68,9 +65,8 @@
     </div>
 
     <div id="info_view" class="view">
-        <p>This is the programme guide for <a href="http://socracan.com/">SoCraCan 2018</a>. It should be suitable for use on
-            most browsers and devices. It's an instance of <a href="http://konopas.org/">KonOpas</a>, an open-source project providing conventions with easy-to-use mobile-friendly guides.<p>
-        <div id="last-updated">Programme and participant data were last updated <span></span>.</div>
+        <p>This is the programme guide for <a href="https://www.socrates-conference.de">SoCraTes 2017</a>. It should be suitable for use on
+            most browsers and devices. It's an instance of <a href="http://konopas.org/">KonOpas</a>, an open-source project providing conventions with easy-to-use mobile-friendly guides.</p>
 
         <div id="install-instructions">
             <p>This guide will work in your browser even when you don't have an internet connection.
@@ -100,13 +96,13 @@
 <script src="../konopas.min.js"></script>
 <script>
     var konopas = new KonOpas({
-        'id': 'socracan2018',
+        'id': 'socrates2017',
         'default_duration': 50,
         'time_show_am_pm': false,
         'show_all_days_by_default': true,
         'use_server': false
     });
-    $.getJSON("https://openspaceapp-socracan2018.herokuapp.com/v1/konopas", function (data) {
+    $.getJSON("https://openspaceapp-socrates2017.herokuapp.com/v1/konopas", function (data) {
         program = data;
     }).done(function () {
         konopas.set_program(program, {
