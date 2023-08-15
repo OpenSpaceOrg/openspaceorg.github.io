@@ -13,7 +13,7 @@
 </head>
 <body>
 <div id="scroll"><a href="#top" id="scroll_link" data-txt>Scroll up</a></div>
-
+<div id="time"></div>
 <div id="banner">
     <div id="server_connect"></div>
     <h1><a href="#info" title="SoCraTes 2023">
@@ -82,21 +82,21 @@
 
 <script src="../konopas.min.js"></script>
 <script>
-    var konopas = new KonOpas({
-        'id': 'SoCraTes2023',
-        'default_duration': 50,
-        'time_show_am_pm': false,
-        'show_all_days_by_default': true,
-        'use_server': false
+var konopas = new KonOpas({
+    'id': 'SoCraTes2023',
+    'default_duration': 50,
+    'time_show_am_pm': false,
+    'show_all_days_by_default': true,
+    'use_server': false
+});
+$.getJSON("https://scrts-jbe.k8s.with-humans.org/v1/konopas", function (data) {
+    program = data;
+}).done(function () {
+    konopas.set_program(program, {
+        'day': {},
+        'area': {},
+        'tag': {}
     });
-    $.getJSON("https://scrts-jbe.k8s.with-humans.org/v1/konopas", function (data) {
-        program = data;
-    }).done(function () {
-        konopas.set_program(program, {
-            'day': {},
-            'area': {},
-            'tag': {}
-        });
-        konopas.set_view();
-    });
+    konopas.set_view();
+});
 </script>
