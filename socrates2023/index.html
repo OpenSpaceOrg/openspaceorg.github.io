@@ -89,7 +89,7 @@ var konopas = new KonOpas({
     'show_all_days_by_default': true,
     'use_server': false
 });
-$.getJSON("https://scrts-jbe.k8s.with-humans.org/v1/konopas", function (data) {
+$.getJSON("./sessions.json", function (data) {
     program = data;
 }).done(function () {
     konopas.set_program(program, {
