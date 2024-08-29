@@ -41,7 +41,7 @@
                     <input type="submit" id="q_submit" data-txt="Go" data-txt-attr="value">
                     <input type="reset" id="q_clear" data-txt="Clear all" data-txt-attr="value">
                 </div>
-<!--                <div id="q_hint" class="hint"></div>-->
+                <!--                <div id="q_hint" class="hint"></div>-->
             </form>
             <div id="filter_sum"></div>
         </div>
@@ -81,6 +81,7 @@
 </div>
 
 <script src="../konopas.min.js"></script>
+<script src="sessions.js"></script>
 <script>
 var konopas = new KonOpas({
     'id': 'SoCraTes2024',
@@ -89,14 +90,10 @@ var konopas = new KonOpas({
     'show_all_days_by_default': true,
     'use_server': false
 });
-$.getJSON("https://scrts-jbe.k8s.with-humans.org/v1/konopas", function (data) {
-    program = data;
-}).done(function () {
-    konopas.set_program(program, {
-        'day': {},
-        'area': {},
-        'tag': {}
-    });
-    konopas.set_view();
+konopas.set_program(program, {
+    'day': {},
+    'area': {},
+    'tag': {}
 });
+konopas.set_view();
 </script>
