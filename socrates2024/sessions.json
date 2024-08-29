@@ -1,18 +1,12 @@
-var program = [
+[
   {
     "id": "20241",
     "title": "Breakfast",
     "date": "2024-08-22",
     "time": "07:00",
     "mins": "180",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -27,14 +21,8 @@ var program = [
     "date": "2024-08-22",
     "time": "12:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -49,14 +37,8 @@ var program = [
     "date": "2024-08-22",
     "time": "18:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -71,14 +53,8 @@ var program = [
     "date": "2024-08-22",
     "time": "09:30",
     "mins": "30",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -93,14 +69,8 @@ var program = [
     "date": "2024-08-22",
     "time": "10:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      "track1"
-    ],
-    "loc": [
-      "Hamburg"
-    ],
+    "tags": ["", "", "track1"],
+    "loc": ["Hamburg"],
     "desc": "",
     "people": [
       {
@@ -115,14 +85,8 @@ var program = [
     "date": "2024-08-22",
     "time": "10:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      "track2"
-    ],
-    "loc": [
-      "Erfurt"
-    ],
+    "tags": ["", "", "track2"],
+    "loc": ["Erfurt"],
     "desc": "",
     "people": [
       {
@@ -137,14 +101,8 @@ var program = [
     "date": "2024-08-22",
     "time": "10:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      "track4"
-    ],
-    "loc": [
-      "Köln"
-    ],
+    "tags": ["", "", "track4"],
+    "loc": ["Köln"],
     "desc": "",
     "people": [
       {
@@ -159,14 +117,8 @@ var program = [
     "date": "2024-08-22",
     "time": "13:30",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      "track1"
-    ],
-    "loc": [
-      "Hamburg"
-    ],
+    "tags": ["", "", "track1"],
+    "loc": ["Hamburg"],
     "desc": "",
     "people": [
       {
@@ -181,14 +133,8 @@ var program = [
     "date": "2024-08-22",
     "time": "13:30",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      "track2"
-    ],
-    "loc": [
-      "Erfurt"
-    ],
+    "tags": ["", "", "track2"],
+    "loc": ["Erfurt"],
     "desc": "",
     "people": [
       {
@@ -203,14 +149,8 @@ var program = [
     "date": "2024-08-22",
     "time": "13:30",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      "track3"
-    ],
-    "loc": [
-      "Hannover"
-    ],
+    "tags": ["", "", "track3"],
+    "loc": ["Hannover"],
     "desc": "",
     "people": [
       {
@@ -225,14 +165,8 @@ var program = [
     "date": "2024-08-22",
     "time": "13:30",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      "track4"
-    ],
-    "loc": [
-      "Köln"
-    ],
+    "tags": ["", "", "track4"],
+    "loc": ["Köln"],
     "desc": "",
     "people": [
       {
@@ -247,14 +181,8 @@ var program = [
     "date": "2024-08-22",
     "time": "15:30",
     "mins": "30",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Coffee Isles"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Coffee Isles"],
     "desc": "",
     "people": [
       {
@@ -269,14 +197,8 @@ var program = [
     "date": "2024-08-22",
     "time": "16:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      "track1"
-    ],
-    "loc": [
-      "Hamburg"
-    ],
+    "tags": ["", "", "track1"],
+    "loc": ["Hamburg"],
     "desc": "",
     "people": [
       {
@@ -291,14 +213,8 @@ var program = [
     "date": "2024-08-22",
     "time": "16:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      "track2"
-    ],
-    "loc": [
-      "Untitled"
-    ],
+    "tags": ["", "", "track2"],
+    "loc": ["Untitled"],
     "desc": "",
     "people": [
       {
@@ -313,14 +229,8 @@ var program = [
     "date": "2024-08-22",
     "time": "16:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      "track3"
-    ],
-    "loc": [
-      "Hannover"
-    ],
+    "tags": ["", "", "track3"],
+    "loc": ["Hannover"],
     "desc": "",
     "people": [
       {
@@ -335,14 +245,8 @@ var program = [
     "date": "2024-08-22",
     "time": "16:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      "track4"
-    ],
-    "loc": [
-      "Köln"
-    ],
+    "tags": ["", "", "track4"],
+    "loc": ["Köln"],
     "desc": "",
     "people": [
       {
@@ -357,14 +261,8 @@ var program = [
     "date": "2024-08-22",
     "time": "19:30",
     "mins": "50",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -379,14 +277,8 @@ var program = [
     "date": "2024-08-22",
     "time": "21:30",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Potsdam"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Potsdam"],
     "desc": "",
     "people": [
       {
@@ -401,14 +293,8 @@ var program = [
     "date": "2024-08-23",
     "time": "07:00",
     "mins": "180",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -423,14 +309,8 @@ var program = [
     "date": "2024-08-23",
     "time": "09:00",
     "mins": "90",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -445,14 +325,8 @@ var program = [
     "date": "2024-08-23",
     "time": "12:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -467,14 +341,8 @@ var program = [
     "date": "2024-08-23",
     "time": "17:15",
     "mins": "30",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -489,14 +357,8 @@ var program = [
     "date": "2024-08-23",
     "time": "18:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -511,14 +373,8 @@ var program = [
     "date": "2024-08-24",
     "time": "07:00",
     "mins": "180",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -533,14 +389,8 @@ var program = [
     "date": "2024-08-24",
     "time": "09:00",
     "mins": "45",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -555,14 +405,8 @@ var program = [
     "date": "2024-08-24",
     "time": "12:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -577,14 +421,8 @@ var program = [
     "date": "2024-08-24",
     "time": "17:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -599,14 +437,8 @@ var program = [
     "date": "2024-08-24",
     "time": "18:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -621,14 +453,8 @@ var program = [
     "date": "2024-08-25",
     "time": "07:00",
     "mins": "180",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -643,14 +469,8 @@ var program = [
     "date": "2024-08-25",
     "time": "12:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -665,14 +485,8 @@ var program = [
     "date": "2024-08-25",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -687,14 +501,8 @@ var program = [
     "date": "2024-08-25",
     "time": "18:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -709,14 +517,8 @@ var program = [
     "date": "2024-08-26",
     "time": "07:00",
     "mins": "180",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -731,14 +533,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:00",
     "mins": "15",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Coffee Isles"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Coffee Isles"],
     "desc": "",
     "people": [
       {
@@ -753,14 +549,8 @@ var program = [
     "date": "2024-08-24",
     "time": "11:00",
     "mins": "15",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Coffee Isles"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Coffee Isles"],
     "desc": "",
     "people": [
       {
@@ -775,14 +565,8 @@ var program = [
     "date": "2024-08-25",
     "time": "11:00",
     "mins": "15",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Coffee Isles"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Coffee Isles"],
     "desc": "",
     "people": [
       {
@@ -797,14 +581,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:00",
     "mins": "15",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Coffee Isles"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Coffee Isles"],
     "desc": "",
     "people": [
       {
@@ -819,14 +597,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:00",
     "mins": "15",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Coffee Isles"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Coffee Isles"],
     "desc": "",
     "people": [
       {
@@ -841,14 +613,8 @@ var program = [
     "date": "2024-08-25",
     "time": "16:00",
     "mins": "15",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Coffee Isles"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Coffee Isles"],
     "desc": "",
     "people": [
       {
@@ -863,14 +629,8 @@ var program = [
     "date": "2024-08-23",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dortmund"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dortmund"],
     "desc": "",
     "people": [
       {
@@ -885,14 +645,8 @@ var program = [
     "date": "2024-08-23",
     "time": "13:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Pietzmoor Lounge"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Pietzmoor Lounge"],
     "desc": "",
     "people": [
       {
@@ -907,14 +661,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Stuttgart"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Stuttgart"],
     "desc": "",
     "people": [
       {
@@ -929,14 +677,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Chairs outside Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Chairs outside Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -951,14 +693,8 @@ var program = [
     "date": "2024-08-23",
     "time": "14:00",
     "mins": "110",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Stuttgart"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Stuttgart"],
     "desc": "2 slots",
     "people": [
       {
@@ -973,14 +709,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Tent Lounge"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Tent Lounge"],
     "desc": "",
     "people": [
       {
@@ -995,14 +725,8 @@ var program = [
     "date": "2024-08-23",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Erfurt"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Erfurt"],
     "desc": "",
     "people": [
       {
@@ -1017,14 +741,8 @@ var program = [
     "date": "2024-08-23",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dresden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dresden"],
     "desc": "",
     "people": [
       {
@@ -1039,14 +757,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Düsseldorf"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Düsseldorf"],
     "desc": "",
     "people": [
       {
@@ -1061,14 +773,8 @@ var program = [
     "date": "2024-08-23",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Potsdam"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Potsdam"],
     "desc": "",
     "people": [
       {
@@ -1083,14 +789,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Wiesbaden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Wiesbaden"],
     "desc": "",
     "people": [
       {
@@ -1105,14 +805,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Potsdam"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Potsdam"],
     "desc": "",
     "people": [
       {
@@ -1127,14 +821,8 @@ var program = [
     "date": "2024-08-23",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Düsseldorf"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Düsseldorf"],
     "desc": "",
     "people": [
       {
@@ -1149,14 +837,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Berlin"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Berlin"],
     "desc": "",
     "people": [
       {
@@ -1171,14 +853,8 @@ var program = [
     "date": "2024-08-23",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Berlin"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Berlin"],
     "desc": "",
     "people": [
       {
@@ -1193,14 +869,8 @@ var program = [
     "date": "2024-08-23",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hannover"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hannover"],
     "desc": "",
     "people": [
       {
@@ -1215,14 +885,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Erfurt"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Erfurt"],
     "desc": "",
     "people": [
       {
@@ -1237,14 +901,8 @@ var program = [
     "date": "2024-08-23",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Erfurt"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Erfurt"],
     "desc": "",
     "people": [
       {
@@ -1259,14 +917,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dortmund"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dortmund"],
     "desc": "",
     "people": [
       {
@@ -1281,14 +933,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dresden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dresden"],
     "desc": "",
     "people": [
       {
@@ -1303,14 +949,8 @@ var program = [
     "date": "2024-08-23",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hamburg"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hamburg"],
     "desc": "",
     "people": [
       {
@@ -1325,14 +965,8 @@ var program = [
     "date": "2024-08-23",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Düsseldorf"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Düsseldorf"],
     "desc": "",
     "people": [
       {
@@ -1347,14 +981,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hannover"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hannover"],
     "desc": "",
     "people": [
       {
@@ -1369,14 +997,8 @@ var program = [
     "date": "2024-08-23",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hannover"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hannover"],
     "desc": "",
     "people": [
       {
@@ -1391,14 +1013,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Tent Lounge"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Tent Lounge"],
     "desc": "",
     "people": [
       {
@@ -1413,14 +1029,8 @@ var program = [
     "date": "2024-08-23",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Berlin"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Berlin"],
     "desc": "",
     "people": [
       {
@@ -1435,14 +1045,8 @@ var program = [
     "date": "2024-08-23",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Potsdam"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Potsdam"],
     "desc": "merged",
     "people": [
       {
@@ -1457,14 +1061,8 @@ var program = [
     "date": "2024-08-23",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Tent Lounge"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Tent Lounge"],
     "desc": "",
     "people": [
       {
@@ -1479,14 +1077,8 @@ var program = [
     "date": "2024-08-23",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Potsdam "
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Potsdam "],
     "desc": "merged",
     "people": [
       {
@@ -1501,14 +1093,8 @@ var program = [
     "date": "2024-08-23",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Düsseldorf"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Düsseldorf"],
     "desc": "",
     "people": [
       {
@@ -1523,14 +1109,8 @@ var program = [
     "date": "2024-08-23",
     "time": "12:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Somewhere"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Somewhere"],
     "desc": "(Lunch)",
     "people": [
       {
@@ -1545,14 +1125,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Köln"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Köln"],
     "desc": "",
     "people": [
       {
@@ -1567,14 +1141,8 @@ var program = [
     "date": "2024-08-23",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Köln"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Köln"],
     "desc": "",
     "people": [
       {
@@ -1589,14 +1157,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Stuttgart"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Stuttgart"],
     "desc": "",
     "people": [
       {
@@ -1611,14 +1173,8 @@ var program = [
     "date": "2024-08-23",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Wiesbaden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Wiesbaden"],
     "desc": "",
     "people": [
       {
@@ -1633,14 +1189,8 @@ var program = [
     "date": "2024-08-23",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Wiesbaden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Wiesbaden"],
     "desc": "",
     "people": [
       {
@@ -1655,14 +1205,8 @@ var program = [
     "date": "2024-08-23",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Köln"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Köln"],
     "desc": "",
     "people": [
       {
@@ -1677,14 +1221,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Düsseldorf"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Düsseldorf"],
     "desc": "",
     "people": [
       {
@@ -1699,14 +1237,8 @@ var program = [
     "date": "2024-08-23",
     "time": "10:00",
     "mins": "110",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hamburg"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hamburg"],
     "desc": "2 Slots",
     "people": [
       {
@@ -1721,14 +1253,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Köln"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Köln"],
     "desc": "",
     "people": [
       {
@@ -1743,14 +1269,8 @@ var program = [
     "date": "2024-08-23",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Stuttgart"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Stuttgart"],
     "desc": "",
     "people": [
       {
@@ -1765,14 +1285,8 @@ var program = [
     "date": "2024-08-23",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Köln"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Köln"],
     "desc": "",
     "people": [
       {
@@ -1787,14 +1301,8 @@ var program = [
     "date": "2024-08-23",
     "time": "12:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Somewhere at Lunch"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Somewhere at Lunch"],
     "desc": "",
     "people": [
       {
@@ -1809,14 +1317,8 @@ var program = [
     "date": "2024-08-23",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hamburg"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hamburg"],
     "desc": "",
     "people": [
       {
@@ -1831,14 +1333,8 @@ var program = [
     "date": "2024-08-23",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hannover"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hannover"],
     "desc": "",
     "people": [
       {
@@ -1853,14 +1349,8 @@ var program = [
     "date": "2024-08-23",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Berlin"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Berlin"],
     "desc": "",
     "people": [
       {
@@ -1875,14 +1365,8 @@ var program = [
     "date": "2024-08-23",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dresden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dresden"],
     "desc": "",
     "people": [
       {
@@ -1897,14 +1381,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dortmund"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dortmund"],
     "desc": "",
     "people": [
       {
@@ -1919,14 +1397,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Berlin"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Berlin"],
     "desc": "",
     "people": [
       {
@@ -1941,14 +1413,8 @@ var program = [
     "date": "2024-08-23",
     "time": "12:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Somewhere"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Somewhere"],
     "desc": "Outside the restaurant",
     "people": [
       {
@@ -1963,14 +1429,8 @@ var program = [
     "date": "2024-08-23",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Wiesbaden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Wiesbaden"],
     "desc": "",
     "people": [
       {
@@ -1985,14 +1445,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dresden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dresden"],
     "desc": "",
     "people": [
       {
@@ -2007,14 +1461,8 @@ var program = [
     "date": "2024-08-23",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dortmund"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dortmund"],
     "desc": "",
     "people": [
       {
@@ -2029,14 +1477,8 @@ var program = [
     "date": "2024-08-23",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -2051,14 +1493,8 @@ var program = [
     "date": "2024-08-23",
     "time": "",
     "mins": "",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Somewhere"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Somewhere"],
     "desc": "Whenever, Wherever",
     "people": [
       {
@@ -2073,14 +1509,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Wiesbaden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Wiesbaden"],
     "desc": "",
     "people": [
       {
@@ -2095,14 +1525,8 @@ var program = [
     "date": "2024-08-23",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Erfurt"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Erfurt"],
     "desc": "",
     "people": [
       {
@@ -2117,14 +1541,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Somewhere"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Somewhere"],
     "desc": "",
     "people": [
       {
@@ -2139,14 +1557,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Somewhere"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Somewhere"],
     "desc": "",
     "people": [
       {
@@ -2161,14 +1573,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hamburg"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hamburg"],
     "desc": "merged",
     "people": [
       {
@@ -2183,14 +1589,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Erfurt"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Erfurt"],
     "desc": "",
     "people": [
       {
@@ -2205,14 +1605,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Tent Lounge"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Tent Lounge"],
     "desc": "",
     "people": [
       {
@@ -2227,14 +1621,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Potsdam"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Potsdam"],
     "desc": "",
     "people": [
       {
@@ -2249,14 +1637,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hannover"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hannover"],
     "desc": "",
     "people": [
       {
@@ -2271,14 +1653,8 @@ var program = [
     "date": "2024-08-23",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dresden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dresden"],
     "desc": "",
     "people": [
       {
@@ -2293,14 +1669,8 @@ var program = [
     "date": "2024-08-23",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hamburg"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hamburg"],
     "desc": "merged",
     "people": [
       {
@@ -2315,14 +1685,8 @@ var program = [
     "date": "2024-08-23",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dortmund"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dortmund"],
     "desc": "",
     "people": [
       {
@@ -2337,14 +1701,8 @@ var program = [
     "date": "2024-08-23",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Tent Lounge"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Tent Lounge"],
     "desc": "",
     "people": [
       {
@@ -2359,14 +1717,8 @@ var program = [
     "date": "2024-08-23",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Potsdam"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Potsdam"],
     "desc": "",
     "people": [
       {
@@ -2381,14 +1733,8 @@ var program = [
     "date": "2024-08-23",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -2403,14 +1749,8 @@ var program = [
     "date": "2024-08-23",
     "time": "19:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      ""
-    ],
+    "tags": ["", "", ""],
+    "loc": [""],
     "desc": "",
     "people": [
       {
@@ -2425,14 +1765,8 @@ var program = [
     "date": "2024-08-23",
     "time": "21:00",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Potsdam"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Potsdam"],
     "desc": "",
     "people": [
       {
@@ -2447,14 +1781,8 @@ var program = [
     "date": "2024-08-24",
     "time": "06:45",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Reception"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Reception"],
     "desc": "",
     "people": [
       {
@@ -2469,14 +1797,8 @@ var program = [
     "date": "2024-08-23",
     "time": "18:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Green"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Green"],
     "desc": "",
     "people": [
       {
@@ -2491,14 +1813,8 @@ var program = [
     "date": "2024-08-23",
     "time": "18:00",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Everywhere"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Everywhere"],
     "desc": "",
     "people": [
       {
@@ -2513,14 +1829,8 @@ var program = [
     "date": "2024-08-23",
     "time": "19:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Wiesbaden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Wiesbaden"],
     "desc": "",
     "people": [
       {
@@ -2535,14 +1845,8 @@ var program = [
     "date": "2024-08-23",
     "time": "21:30",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Wachholderlounge"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Wachholderlounge"],
     "desc": "",
     "people": [
       {
@@ -2557,14 +1861,8 @@ var program = [
     "date": "2024-08-23",
     "time": "20:00",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Erfurt"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Erfurt"],
     "desc": "",
     "people": [
       {
@@ -2579,14 +1877,8 @@ var program = [
     "date": "2024-08-23",
     "time": "19:30",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "???"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["???"],
     "desc": "",
     "people": [
       {
@@ -2601,14 +1893,8 @@ var program = [
     "date": "2024-08-23",
     "time": "19:00",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "???"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["???"],
     "desc": "",
     "people": [
       {
@@ -2623,14 +1909,8 @@ var program = [
     "date": "2024-08-23",
     "time": "18:15",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Volleyball Field"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Volleyball Field"],
     "desc": "",
     "people": [
       {
@@ -2645,14 +1925,8 @@ var program = [
     "date": "2024-08-23",
     "time": "",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "???"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["???"],
     "desc": "",
     "people": [
       {
@@ -2667,14 +1941,8 @@ var program = [
     "date": "2024-08-23",
     "time": "19:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -2689,14 +1957,8 @@ var program = [
     "date": "2024-08-23",
     "time": "21:00",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hamburg & Hannover"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hamburg & Hannover"],
     "desc": "",
     "people": [
       {
@@ -2711,14 +1973,8 @@ var program = [
     "date": "2024-08-23",
     "time": "",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Wiesbaden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Wiesbaden"],
     "desc": "",
     "people": [
       {
@@ -2733,14 +1989,8 @@ var program = [
     "date": "2024-08-23",
     "time": "21:00",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Jan-Kimm-Bar"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Jan-Kimm-Bar"],
     "desc": "",
     "people": [
       {
@@ -2755,14 +2005,8 @@ var program = [
     "date": "2024-08-23",
     "time": "",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Berlin"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Berlin"],
     "desc": "",
     "people": [
       {
@@ -2777,14 +2021,8 @@ var program = [
     "date": "2024-08-23",
     "time": "22:00",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Pool Table"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Pool Table"],
     "desc": "",
     "people": [
       {
@@ -2799,14 +2037,8 @@ var program = [
     "date": "2024-08-23",
     "time": "19:00",
     "mins": "240",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Düsseldorf"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Düsseldorf"],
     "desc": "",
     "people": [
       {
@@ -2821,14 +2053,8 @@ var program = [
     "date": "2024-08-24",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dortmund"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dortmund"],
     "desc": "",
     "people": [
       {
@@ -2843,14 +2069,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Quiet room"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Quiet room"],
     "desc": "",
     "people": [
       {
@@ -2865,14 +2085,8 @@ var program = [
     "date": "2024-08-24",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Wiesbaden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Wiesbaden"],
     "desc": "",
     "people": [
       {
@@ -2887,14 +2101,8 @@ var program = [
     "date": "2024-08-24",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Potsdam"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Potsdam"],
     "desc": "",
     "people": [
       {
@@ -2909,14 +2117,8 @@ var program = [
     "date": "2024-08-24",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dresden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dresden"],
     "desc": "",
     "people": [
       {
@@ -2931,14 +2133,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Outside the restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Outside the restaurant"],
     "desc": "",
     "people": [
       {
@@ -2953,14 +2149,8 @@ var program = [
     "date": "2024-08-24",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Köln"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Köln"],
     "desc": "",
     "people": [
       {
@@ -2975,14 +2165,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Outside Bohmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Outside Bohmesaal"],
     "desc": "",
     "people": [
       {
@@ -2997,14 +2181,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Düsseldorf"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Düsseldorf"],
     "desc": "",
     "people": [
       {
@@ -3019,14 +2197,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Wiesbaden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Wiesbaden"],
     "desc": "",
     "people": [
       {
@@ -3041,14 +2213,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dresden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dresden"],
     "desc": "",
     "people": [
       {
@@ -3063,14 +2229,8 @@ var program = [
     "date": "2024-08-24",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Düsseldorf"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Düsseldorf"],
     "desc": "",
     "people": [
       {
@@ -3085,14 +2245,8 @@ var program = [
     "date": "2024-08-24",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Berlin"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Berlin"],
     "desc": "",
     "people": [
       {
@@ -3107,14 +2261,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Erfurt"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Erfurt"],
     "desc": "Double Session",
     "people": [
       {
@@ -3129,14 +2277,8 @@ var program = [
     "date": "2024-08-24",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Stuttgart"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Stuttgart"],
     "desc": "",
     "people": [
       {
@@ -3151,14 +2293,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dortmund"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dortmund"],
     "desc": "",
     "people": [
       {
@@ -3173,14 +2309,8 @@ var program = [
     "date": "2024-08-24",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Köln"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Köln"],
     "desc": "",
     "people": [
       {
@@ -3195,14 +2325,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Tent lounge"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Tent lounge"],
     "desc": "",
     "people": [
       {
@@ -3217,14 +2341,8 @@ var program = [
     "date": "2024-08-24",
     "time": "13:30",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Outside the children room"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Outside the children room"],
     "desc": "",
     "people": [
       {
@@ -3239,14 +2357,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Tent lounge"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Tent lounge"],
     "desc": "",
     "people": [
       {
@@ -3261,14 +2373,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Potsdam"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Potsdam"],
     "desc": "",
     "people": [
       {
@@ -3283,14 +2389,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dortmund"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dortmund"],
     "desc": "",
     "people": [
       {
@@ -3305,14 +2405,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Berlin"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Berlin"],
     "desc": "",
     "people": [
       {
@@ -3327,14 +2421,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Stuttgart"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Stuttgart"],
     "desc": "",
     "people": [
       {
@@ -3349,14 +2437,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Wiesbaden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Wiesbaden"],
     "desc": "",
     "people": [
       {
@@ -3371,14 +2453,8 @@ var program = [
     "date": "2024-08-24",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Düsseldorf"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Düsseldorf"],
     "desc": "",
     "people": [
       {
@@ -3393,14 +2469,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "pull",
-      ""
-    ],
-    "loc": [
-      "Erfurt"
-    ],
+    "tags": ["", "pull", ""],
+    "loc": ["Erfurt"],
     "desc": "",
     "people": [
       {
@@ -3415,14 +2485,8 @@ var program = [
     "date": "2024-08-24",
     "time": "12:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Beachvolleyball"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Beachvolleyball"],
     "desc": "",
     "people": [
       {
@@ -3437,14 +2501,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "120",
-    "tags": [
-      "",
-      "kata",
-      ""
-    ],
-    "loc": [
-      "Hamburg"
-    ],
+    "tags": ["", "kata", ""],
+    "loc": ["Hamburg"],
     "desc": "",
     "people": [
       {
@@ -3459,14 +2517,8 @@ var program = [
     "date": "2024-08-24",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "pull",
-      ""
-    ],
-    "loc": [
-      "Hannover"
-    ],
+    "tags": ["", "pull", ""],
+    "loc": ["Hannover"],
     "desc": "",
     "people": [
       {
@@ -3481,14 +2533,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Berlin"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Berlin"],
     "desc": "",
     "people": [
       {
@@ -3503,14 +2549,8 @@ var program = [
     "date": "2024-08-24",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "pull",
-      ""
-    ],
-    "loc": [
-      "Hannover"
-    ],
+    "tags": ["", "pull", ""],
+    "loc": ["Hannover"],
     "desc": "",
     "people": [
       {
@@ -3525,14 +2565,8 @@ var program = [
     "date": "2024-08-24",
     "time": "11:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -3547,14 +2581,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Stuttgart"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Stuttgart"],
     "desc": "",
     "people": [
       {
@@ -3569,14 +2597,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Köln"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Köln"],
     "desc": "",
     "people": [
       {
@@ -3591,14 +2613,8 @@ var program = [
     "date": "2024-08-24",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Erfurt "
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Erfurt "],
     "desc": "",
     "people": [
       {
@@ -3613,14 +2629,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "480",
-    "tags": [
-      "",
-      "poll",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "poll", ""],
+    "loc": ["Böhmesaal"],
     "desc": "Please fill the poll on the flipcharts",
     "people": [
       {
@@ -3635,14 +2645,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "pull",
-      ""
-    ],
-    "loc": [
-      "Düsseldorf"
-    ],
+    "tags": ["", "pull", ""],
+    "loc": ["Düsseldorf"],
     "desc": "",
     "people": [
       {
@@ -3657,14 +2661,8 @@ var program = [
     "date": "2024-08-24",
     "time": "12:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Table 1 restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Table 1 restaurant"],
     "desc": "",
     "people": [
       {
@@ -3679,14 +2677,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Düsseldorf"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Düsseldorf"],
     "desc": "",
     "people": [
       {
@@ -3701,14 +2693,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dresden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dresden"],
     "desc": "",
     "people": [
       {
@@ -3723,14 +2709,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Köln"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Köln"],
     "desc": "",
     "people": [
       {
@@ -3745,14 +2725,8 @@ var program = [
     "date": "2024-08-24",
     "time": "13:00",
     "mins": "120",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Pietzmoor Lounge"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Pietzmoor Lounge"],
     "desc": "",
     "people": [
       {
@@ -3767,14 +2741,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Köln"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Köln"],
     "desc": "",
     "people": [
       {
@@ -3789,14 +2757,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hannover"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hannover"],
     "desc": "",
     "people": [
       {
@@ -3811,14 +2773,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dresden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dresden"],
     "desc": "",
     "people": [
       {
@@ -3833,14 +2789,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Tents outside"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Tents outside"],
     "desc": "",
     "people": [
       {
@@ -3855,14 +2805,8 @@ var program = [
     "date": "2024-08-24",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Stuttgart"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Stuttgart"],
     "desc": "",
     "people": [
       {
@@ -3877,14 +2821,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Tents outside Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Tents outside Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -3899,14 +2837,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Berlin"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Berlin"],
     "desc": "",
     "people": [
       {
@@ -3921,14 +2853,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hamburg"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hamburg"],
     "desc": "",
     "people": [
       {
@@ -3943,14 +2869,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -3965,14 +2885,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hann0ver"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hann0ver"],
     "desc": "",
     "people": [
       {
@@ -3987,14 +2901,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Stuttgart"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Stuttgart"],
     "desc": "",
     "people": [
       {
@@ -4009,14 +2917,8 @@ var program = [
     "date": "2024-08-24",
     "time": "12:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -4031,14 +2933,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hamburg"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hamburg"],
     "desc": "",
     "people": [
       {
@@ -4053,14 +2949,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Erfurt"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Erfurt"],
     "desc": "",
     "people": [
       {
@@ -4075,14 +2965,8 @@ var program = [
     "date": "2024-08-24",
     "time": "12:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -4097,14 +2981,8 @@ var program = [
     "date": "2024-08-24",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Wiesbaden"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Wiesbaden"],
     "desc": "",
     "people": [
       {
@@ -4119,14 +2997,8 @@ var program = [
     "date": "2024-08-24",
     "time": "12:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -4141,14 +3013,8 @@ var program = [
     "date": "2024-08-24",
     "time": "13:30",
     "mins": "30",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Berlin"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Berlin"],
     "desc": "",
     "people": [
       {
@@ -4163,14 +3029,8 @@ var program = [
     "date": "2024-08-24",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "pull",
-      ""
-    ],
-    "loc": [
-      "Potsdam"
-    ],
+    "tags": ["", "pull", ""],
+    "loc": ["Potsdam"],
     "desc": "",
     "people": [
       {
@@ -4185,14 +3045,8 @@ var program = [
     "date": "2024-08-24",
     "time": "10:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Potsdam"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Potsdam"],
     "desc": "",
     "people": [
       {
@@ -4207,14 +3061,8 @@ var program = [
     "date": "2024-08-24",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Berlin"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Berlin"],
     "desc": "",
     "people": [
       {
@@ -4229,14 +3077,8 @@ var program = [
     "date": "2024-08-24",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hamburg"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hamburg"],
     "desc": "",
     "people": [
       {
@@ -4251,14 +3093,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Dortmund"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Dortmund"],
     "desc": "",
     "people": [
       {
@@ -4273,14 +3109,8 @@ var program = [
     "date": "2024-08-24",
     "time": "15:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -4295,14 +3125,8 @@ var program = [
     "date": "2024-08-24",
     "time": "12:30",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Restaurant"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Restaurant"],
     "desc": "",
     "people": [
       {
@@ -4317,14 +3141,8 @@ var program = [
     "date": "2024-08-24",
     "time": "12:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Berlin"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Berlin"],
     "desc": "",
     "people": [
       {
@@ -4339,14 +3157,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Potsdam"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Potsdam"],
     "desc": "",
     "people": [
       {
@@ -4361,14 +3173,8 @@ var program = [
     "date": "2024-08-24",
     "time": "14:00",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Hannover "
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Hannover "],
     "desc": "",
     "people": [
       {
@@ -4383,14 +3189,8 @@ var program = [
     "date": "2024-08-24",
     "time": "16:15",
     "mins": "60",
-    "tags": [
-      "",
-      "",
-      ""
-    ],
-    "loc": [
-      "Böhmesaal"
-    ],
+    "tags": ["", "", ""],
+    "loc": ["Böhmesaal"],
     "desc": "",
     "people": [
       {
@@ -4399,4 +3199,4 @@ var program = [
       }
     ]
   }
-];
+]
