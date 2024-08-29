@@ -89,14 +89,18 @@ var konopas = new KonOpas({
     'show_all_days_by_default': true,
     'use_server': false
 });
-$.getJSON("./sessions.json", function (data) {
-    program = data;
-}).done(function () {
-    konopas.set_program(program, {
+fetch("./sessions.json")
+    .then(resp => {
+        if(!resp.ok) throw new Error("Got "+resp.status);
+        return resp;
+    })
+    .then(resp => resp.json())
+    .then(body => {
+    konopas.set_program(body, {
         'day': {},
         'area': {},
         'tag': {}
     });
     konopas.set_view();
-});
+})
 </script>

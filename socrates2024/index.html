@@ -83,22 +83,26 @@
 <script src="../konopas.min.js"></script>
 <script src="sessions.js"></script>
 <script>
-    var konopas = new KonOpas({
-        'id': 'SoCraTes2024',
-        'default_duration': 50,
-        'time_show_am_pm': false,
-        'show_all_days_by_default': true,
-        'use_server': false
+var konopas = new KonOpas({
+    'id': 'SoCraTes2024',
+    'default_duration': 50,
+    'time_show_am_pm': false,
+    'show_all_days_by_default': true,
+    'use_server': false
+});
+fetch("./sessions.json")
+    .then(resp => {
+        if(!resp.ok) throw new Error("Got "+resp.status);
+        return resp;
+    })
+    .then(resp => resp.json())
+    .then(body => {
+    konopas.set_program(body, {
+        'day': {},
+        'area': {},
+        'tag': {}
     });
-    $.getJSON("./sessions.json", function (data) {
-        program = data;
-    }).done(function () {
-        konopas.set_program(program, {
-            'day': {},
-            'area': {},
-            'tag': {}
-        });
-        konopas.set_view();
-    });
+    konopas.set_view();
+})
     </script>
     
