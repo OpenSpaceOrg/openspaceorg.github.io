@@ -80,24 +80,20 @@
 <script src="./konopas.min.js"></script>
 <script>
     var konopas = new KonOpas({
-        'id': 'SoCraTes2024',
+        'id': 'SoCraTesUK2019',
         'default_duration': 50,
         'time_show_am_pm': false,
         'show_all_days_by_default': true,
         'use_server': false
     });
-    fetch("https://openspaceapp-socratesuk2024-145f1483506e.herokuapp.com/v1/konopas")
-        .then(resp => {
-            if(!resp.ok) throw new Error("Got "+resp.status);
-            return resp;
-        })
-        .then(resp => resp.json())
-        .then(body => {
-        konopas.set_program(body, {
+    $.getJSON("https://openspaceapp-socratesuk2024-145f1483506e.herokuapp.com/v1/konopas", function (data) {
+        program = data;
+    }).done(function () {
+        konopas.set_program(program, {
             'day': {},
             'area': {},
             'tag': {}
         });
         konopas.set_view();
-    })
+    });
 </script>
