@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="../skin/konopas.css">
@@ -13,7 +13,7 @@
 </head>
 <body>
 <div id="scroll"><a href="#top" id="scroll_link" data-txt>Scroll up</a></div>
-
+<div id="time"></div>
 <div id="banner">
     <div id="server_connect"></div>
     <h1><a href="#info" title="SoCraTes UK 2024">
@@ -41,7 +41,7 @@
                     <input type="submit" id="q_submit" data-txt="Go" data-txt-attr="value">
                     <input type="reset" id="q_clear" data-txt="Clear all" data-txt-attr="value">
                 </div>
-                <div id="q_hint" class="hint"></div>
+                <!--                <div id="q_hint" class="hint"></div>-->
             </form>
             <div id="filter_sum"></div>
         </div>
@@ -59,14 +59,15 @@
                 <dt>Chrome on Android
                 <dd>Tap on <i class="android_menu_icon"></i> (menu), then tap <b>Add to Home Screen</b>.
                 <dt>Firefox on Android
-                <dd>Tap on <i class="android_menu_icon"></i> (menu), then tap <b>Bookmark</b> and select <b>Options</b>, and <b>Add to Home Screen</b>.
+                <dd>Tap on <i class="android_menu_icon"></i> (menu), then tap <b>Bookmark</b> and select <b>Options</b>,
+                    and <b>Add to Home Screen</b>.
                 <dt>IE on Windows Phone
                 <dd>Tap on <i class="ie_menu_icon"></i> (menu), then tap <b>Pin to Start</b>
             </dl>
         </div>
         <div>
             <h3>Milton Hill House map</h3>
-            <img src="map.png" style="width: 850px;" alt="MiltonHillHouse_Map_SoCraTes"/>
+            <img src="map.png" style="width: 350px;" alt="MiltonHillHouse_Map_SoCraTes"/>
         </div>
         <script>
             if (navigator.standalone) document.getElementById('install-instructions').style.display = 'none';
@@ -80,8 +81,8 @@
 <script src="./konopas.min.js"></script>
 <script>
     var konopas = new KonOpas({
-        'id': 'SoCraTesUK2019',
-        'default_duration': 50,
+        'id': 'SoCraTesUK2024',
+        'default_duration': 60,
         'time_show_am_pm': false,
         'show_all_days_by_default': true,
         'use_server': false
