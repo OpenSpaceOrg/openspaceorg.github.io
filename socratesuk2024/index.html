@@ -87,7 +87,7 @@
         'show_all_days_by_default': true,
         'use_server': false
     });
-    fetch("https://openspaceapp-socratesuk2024-145f1483506e.herokuapp.com/v1/konopas")
+    fetch("./sessions.json")
     .then(resp => {
         if(!resp.ok) throw new Error("Got "+resp.status);
         return resp;
