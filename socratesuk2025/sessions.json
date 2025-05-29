@@ -1,0 +1,2070 @@
+[
+  {
+    "id": "2002",
+    "title": "Training Day Kick-Off",
+    "date": "2024-09-19",
+    "time": "09:30",
+    "mins": "15",
+    "tags": [
+      "",
+      "training-day",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2002",
+        "name": "all"
+      }
+    ]
+  },
+  {
+    "id": "2004",
+    "title": "TDD game with Cyber-Dojo",
+    "date": "2024-09-19",
+    "time": "09:45",
+    "mins": "60",
+    "tags": [
+      "Track A",
+      "training-day",
+      ""
+    ],
+    "loc": [
+      ""
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2004",
+        "name": "Jon Jagger"
+      }
+    ]
+  },
+  {
+    "id": "2005",
+    "title": "Breakfast",
+    "date": "2024-09-19",
+    "time": "07:00",
+    "mins": "120",
+    "tags": [
+      "",
+      "food",
+      ""
+    ],
+    "loc": [
+      "Restaurant"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2005",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2006",
+    "title": "Intro session",
+    "date": "2024-09-19",
+    "time": "18:15",
+    "mins": "65",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Wisteria"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2006",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2007",
+    "title": "Dinner",
+    "date": "2024-09-19",
+    "time": "19:15",
+    "mins": "105",
+    "tags": [
+      "",
+      "food",
+      ""
+    ],
+    "loc": [
+      "Restaurant"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2007",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2008",
+    "title": "Breakfast",
+    "date": "2024-09-20",
+    "time": "07:00",
+    "mins": "120",
+    "tags": [
+      "",
+      "food",
+      ""
+    ],
+    "loc": [
+      "Restaurant"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2008",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2009",
+    "title": "Opening circle and session proposals",
+    "date": "2024-09-20",
+    "time": "09:15",
+    "mins": "60",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Wisteria"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2009",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2010",
+    "title": "Lunch",
+    "date": "2024-09-20",
+    "time": "12:30",
+    "mins": "90",
+    "tags": [
+      "",
+      "food",
+      ""
+    ],
+    "loc": [
+      "Restaurant"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2010",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2011",
+    "title": "Dinner",
+    "date": "2024-09-20",
+    "time": "19:15",
+    "mins": "105",
+    "tags": [
+      "",
+      "food",
+      ""
+    ],
+    "loc": [
+      "Restaurant"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2011",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2012",
+    "title": "Breakfast",
+    "date": "2024-09-21",
+    "time": "07:00",
+    "mins": "120",
+    "tags": [
+      "",
+      "food",
+      ""
+    ],
+    "loc": [
+      "Restaurant"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2012",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2013",
+    "title": "Opening circle and session proposals",
+    "date": "2024-09-21",
+    "time": "09:15",
+    "mins": "60",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Wisteria"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2013",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2014",
+    "title": "Lunch",
+    "date": "2024-09-21",
+    "time": "12:30",
+    "mins": "90",
+    "tags": [
+      "",
+      "food",
+      ""
+    ],
+    "loc": [
+      "Restaurant"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2014",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2015",
+    "title": "Dinner",
+    "date": "2024-09-21",
+    "time": "19:15",
+    "mins": "105",
+    "tags": [
+      "",
+      "food",
+      ""
+    ],
+    "loc": [
+      "Restaurant"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2015",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2016",
+    "title": "Breakfast",
+    "date": "2024-09-22",
+    "time": "07:00",
+    "mins": "120",
+    "tags": [
+      "",
+      "food",
+      ""
+    ],
+    "loc": [
+      "Restaurant"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2016",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2017",
+    "title": "walking in countryside or code retreat if rainy weather",
+    "date": "2024-09-22",
+    "time": "09:00",
+    "mins": "180",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      ""
+    ],
+    "desc": "mud likely, bring boots!",
+    "people": [
+      {
+        "id": "2017",
+        "name": ""
+      }
+    ]
+  },
+  {
+    "id": "2018",
+    "title": "hack and tell session",
+    "date": "2024-09-22",
+    "time": "09:00",
+    "mins": "180",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      ""
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2018",
+        "name": ""
+      }
+    ]
+  },
+  {
+    "id": "2019",
+    "title": "Learn C++ by example",
+    "date": "2024-09-19",
+    "time": "11:00",
+    "mins": "90",
+    "tags": [
+      "Track A",
+      "training-day",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2019",
+        "name": "Fran Buontempo"
+      }
+    ]
+  },
+  {
+    "id": "2020",
+    "title": "Functional FizzBuzz",
+    "date": "2024-09-19",
+    "time": "11:00",
+    "mins": "90",
+    "tags": [
+      "Track B",
+      "training-day",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2020",
+        "name": "Duncan McGregor"
+      }
+    ]
+  },
+  {
+    "id": "2021",
+    "title": "Intro into Systems Thinking",
+    "date": "2024-09-19",
+    "time": "14:30",
+    "mins": "90",
+    "tags": [
+      "Track A",
+      "training-day",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2021",
+        "name": "Diana Montalion and Andrew Harmel-Law"
+      }
+    ]
+  },
+  {
+    "id": "2022",
+    "title": "Refactoring beyond the commit",
+    "date": "2024-09-19",
+    "time": "14:30",
+    "mins": "90",
+    "tags": [
+      "Track B",
+      "training-day",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "How you deliver a refactoring that cannot be delivered in a single commit",
+    "people": [
+      {
+        "id": "2022",
+        "name": "Duncan McGregor and Nat Pryce"
+      }
+    ]
+  },
+  {
+    "id": "2023",
+    "title": "Ensemble/Mob facilitation",
+    "date": "2024-09-19",
+    "time": "16:15",
+    "mins": "90",
+    "tags": [
+      "Track A",
+      "training-day",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2023",
+        "name": "Clare Sudbery"
+      }
+    ]
+  },
+  {
+    "id": "2024",
+    "title": "High-level design: a test-driven approach",
+    "date": "2024-09-19",
+    "time": "16:15",
+    "mins": "90",
+    "tags": [
+      "Track B",
+      "training-day",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2024",
+        "name": "Jason Gorman"
+      }
+    ]
+  },
+  {
+    "id": "2025",
+    "title": "Board games",
+    "date": "2024-09-19",
+    "time": "20:00",
+    "mins": "180",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2025",
+        "name": ""
+      }
+    ]
+  },
+  {
+    "id": "2026",
+    "title": "Music",
+    "date": "2024-09-19",
+    "time": "20:00",
+    "mins": "180",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2026",
+        "name": ""
+      }
+    ]
+  },
+  {
+    "id": "2027",
+    "title": "Chesstime - help me move my app from Java to Kotlin",
+    "date": "2024-09-20",
+    "time": "15:00",
+    "mins": "110",
+    "tags": [
+      "mob",
+      "",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "From Android Views to Jetpack Compose",
+    "people": [
+      {
+        "id": "2027",
+        "name": "Anita"
+      }
+    ]
+  },
+  {
+    "id": "2028",
+    "title": "Workplace conflict, what can ancient warrior arts of the mystic East teach us?",
+    "date": "2024-09-20",
+    "time": "11:30",
+    "mins": "50",
+    "tags": [
+      "hands-on",
+      "",
+      ""
+    ],
+    "loc": [
+      "Wisteria"
+    ],
+    "desc": "Hands on session",
+    "people": [
+      {
+        "id": "2028",
+        "name": "Fox"
+      }
+    ]
+  },
+  {
+    "id": "2029",
+    "title": "C4 Model & Structurizr",
+    "date": "2024-09-20",
+    "time": "14:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "Let's tinker!",
+    "people": [
+      {
+        "id": "2029",
+        "name": "Raimo"
+      }
+    ]
+  },
+  {
+    "id": "2030",
+    "title": "Debugging your conflicts with Non-Violent Communication",
+    "date": "2024-09-20",
+    "time": "17:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Singer"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2030",
+        "name": "Gabriel"
+      }
+    ]
+  },
+  {
+    "id": "2031",
+    "title": "Future Refactoring Tools",
+    "date": "2024-09-20",
+    "time": "11:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "Product box exercise",
+    "people": [
+      {
+        "id": "2031",
+        "name": "Nat"
+      }
+    ]
+  },
+  {
+    "id": "2032",
+    "title": "Software Ball",
+    "date": "2024-09-20",
+    "time": "10:30",
+    "mins": "50",
+    "tags": [
+      "hands-on",
+      "",
+      ""
+    ],
+    "loc": [
+      "Wisteria"
+    ],
+    "desc": "hands-on",
+    "people": [
+      {
+        "id": "2032",
+        "name": "Tom W"
+      }
+    ]
+  },
+  {
+    "id": "2033",
+    "title": "How to help people who are underperforming",
+    "date": "2024-09-20",
+    "time": "10:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2033",
+        "name": "Henrik N"
+      }
+    ]
+  },
+  {
+    "id": "2034",
+    "title": "Incident management round table",
+    "date": "2024-09-20",
+    "time": "15:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "Round-table discussion",
+    "people": [
+      {
+        "id": "2034",
+        "name": "Chris"
+      }
+    ]
+  },
+  {
+    "id": "2035",
+    "title": "What makes code readable and accessible and how to get there ",
+    "date": "2024-09-20",
+    "time": "16:00",
+    "mins": "50",
+    "tags": [
+      "discussion",
+      "",
+      ""
+    ],
+    "loc": [
+      "Singer"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2035",
+        "name": "Mervi"
+      }
+    ]
+  },
+  {
+    "id": "2036",
+    "title": "CANCELLED What does scripting (like bash) look like in your languages?",
+    "date": "2024-09-20",
+    "time": "16:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Crimson Birch"
+    ],
+    "desc": "I can share Scala, interested in all languages",
+    "people": [
+      {
+        "id": "2036",
+        "name": "Oscar"
+      }
+    ]
+  },
+  {
+    "id": "2037",
+    "title": "Continuous deployment - No PRs (TBD), No Estimates, No Sprints, Pair Programming / Mob",
+    "date": "2024-09-20",
+    "time": "11:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Singer"
+    ],
+    "desc": "Set of contentious practices which work well.",
+    "people": [
+      {
+        "id": "2037",
+        "name": "Ivan"
+      }
+    ]
+  },
+  {
+    "id": "2038",
+    "title": "I switched from React to HTMX",
+    "date": "2024-09-20",
+    "time": "14:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "and my package-lock.json shrank by 14.000 lines",
+    "people": [
+      {
+        "id": "2038",
+        "name": "Esko"
+      }
+    ]
+  },
+  {
+    "id": "2039",
+    "title": "Remote Extreme Programming",
+    "date": "2024-09-20",
+    "time": "17:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "Informative workspaces, Sit together, Pair Programming, ",
+    "people": [
+      {
+        "id": "2039",
+        "name": "Niklas"
+      }
+    ]
+  },
+  {
+    "id": "2040",
+    "title": "Migrating Excel applications",
+    "date": "2024-09-20",
+    "time": "11:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Crimson Birch"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2040",
+        "name": "Corinna"
+      }
+    ]
+  },
+  {
+    "id": "2041",
+    "title": "Help me add HTMX to XTC.vote",
+    "date": "2024-09-20",
+    "time": "11:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2041",
+        "name": "Nick H"
+      }
+    ]
+  },
+  {
+    "id": "2042",
+    "title": "What I wish I had known about retirement before I retired",
+    "date": "2024-09-20",
+    "time": "15:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Crimson Birch"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2042",
+        "name": "Duncan"
+      }
+    ]
+  },
+  {
+    "id": "2043",
+    "title": "I need help with using Feature Flags in a regulated environment",
+    "date": "2024-09-20",
+    "time": "10:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2043",
+        "name": "Barney Dellar"
+      }
+    ]
+  },
+  {
+    "id": "2044",
+    "title": "Best testing strategies in large distributed systems",
+    "date": "2024-09-20",
+    "time": "15:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Singer"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2044",
+        "name": "Raj"
+      }
+    ]
+  },
+  {
+    "id": "2045",
+    "title": "Discovering & Documenting Legacy Systems",
+    "date": "2024-09-20",
+    "time": "17:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Crimson Birch"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2045",
+        "name": "Tim"
+      }
+    ]
+  },
+  {
+    "id": "2046",
+    "title": "\"Confidence\"? in software development",
+    "date": "2024-09-20",
+    "time": "10:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Italian Gardens"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2046",
+        "name": "Harram"
+      }
+    ]
+  },
+  {
+    "id": "2047",
+    "title": "As freelancers, how do we decide what to spend our time on",
+    "date": "2024-09-20",
+    "time": "14:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Crimson Birch"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2047",
+        "name": "Clare"
+      }
+    ]
+  },
+  {
+    "id": "2048",
+    "title": "Automated testing & continuous delivery with the Lamp stack",
+    "date": "2024-09-20",
+    "time": "16:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "(or other crappy web tech)",
+    "people": [
+      {
+        "id": "2048",
+        "name": "Seb"
+      }
+    ]
+  },
+  {
+    "id": "2049",
+    "title": "Explorative Testing: Help me solve this bug!",
+    "date": "2024-09-20",
+    "time": "10:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Crimson Birch"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2049",
+        "name": "Alexander Alemahyu"
+      }
+    ]
+  },
+  {
+    "id": "2050",
+    "title": "Virtual Communities",
+    "date": "2024-09-20",
+    "time": "12:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Restaurant"
+    ],
+    "desc": "Well-paced, sustainable, fun, engaging, inviting",
+    "people": [
+      {
+        "id": "2050",
+        "name": "Niklas & Raimo"
+      }
+    ]
+  },
+  {
+    "id": "2051",
+    "title": "Collecting Ideas for \"improving agile software dev\"",
+    "date": "2024-09-20",
+    "time": "12:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Restaurant"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2051",
+        "name": "Gabriel"
+      }
+    ]
+  },
+  {
+    "id": "2052",
+    "title": "Remote ensembles",
+    "date": "2024-09-20",
+    "time": "10:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Singer"
+    ],
+    "desc": "Tools & practice",
+    "people": [
+      {
+        "id": "2052",
+        "name": "Esko"
+      }
+    ]
+  },
+  {
+    "id": "2053",
+    "title": "How does your team do BDD?",
+    "date": "2024-09-20",
+    "time": "14:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Singer"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2053",
+        "name": "Marko"
+      }
+    ]
+  },
+  {
+    "id": "2054",
+    "title": "Electric cars",
+    "date": "2024-09-20",
+    "time": "12:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Restaurant"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2054",
+        "name": "Ivan"
+      }
+    ]
+  },
+  {
+    "id": "2055",
+    "title": "Design processes",
+    "date": "2024-09-20",
+    "time": "17:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "including the double diamond",
+    "people": [
+      {
+        "id": "2055",
+        "name": "Matthew"
+      }
+    ]
+  },
+  {
+    "id": "2056",
+    "title": "An example Example Mapping workshop",
+    "date": "2024-09-20",
+    "time": "15:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Wisteria"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2056",
+        "name": "Barney Dellar"
+      }
+    ]
+  },
+  {
+    "id": "2057",
+    "title": "A walk in nature: How software engineers are anti-tech",
+    "date": "2024-09-20",
+    "time": "16:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Italian gardens"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2057",
+        "name": "Nick H"
+      }
+    ]
+  },
+  {
+    "id": "2058",
+    "title": "Swimming Fast Swimming Slow",
+    "date": "2024-09-20",
+    "time": "18:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Pool"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2058",
+        "name": "Alexander Alemahyu"
+      }
+    ]
+  },
+  {
+    "id": "2059",
+    "title": "Let's Sing! Exercises in harmony",
+    "date": "2024-09-20",
+    "time": "15:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "OUTSIDE"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2059",
+        "name": "Clare"
+      }
+    ]
+  },
+  {
+    "id": "2061",
+    "title": "Agile or Fragile",
+    "date": "2024-09-20",
+    "time": "17:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Wisteria"
+    ],
+    "desc": "discussion on how strict user story refinement \"should be\" your view on the right level & why",
+    "people": [
+      {
+        "id": "2061",
+        "name": "Seymour"
+      }
+    ]
+  },
+  {
+    "id": "2062",
+    "title": "Chesstime (Cont).",
+    "date": "2024-09-20",
+    "time": "16:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2062",
+        "name": "Anita"
+      }
+    ]
+  },
+  {
+    "id": "2063",
+    "title": "Writing \"async chat\"",
+    "date": "2024-09-20",
+    "time": "",
+    "mins": "",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Slack"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2063",
+        "name": "Diana"
+      }
+    ]
+  },
+  {
+    "id": "2064",
+    "title": "The Gilded Rose",
+    "date": "2024-09-20",
+    "time": "16:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Wisteria"
+    ],
+    "desc": "Let's have fun solving hte Gilded Rose Kata",
+    "people": [
+      {
+        "id": "2064",
+        "name": "Barney Dellar"
+      }
+    ]
+  },
+  {
+    "id": "2065",
+    "title": "Database Config Management & Modularisation",
+    "date": "2024-09-20",
+    "time": "17:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "in the bar!"
+    ],
+    "desc": "Tools? Techniques?",
+    "people": [
+      {
+        "id": "2065",
+        "name": "Dan Haywood"
+      }
+    ]
+  },
+  {
+    "id": "2066",
+    "title": "Reflections on the day",
+    "date": "2024-09-20",
+    "time": "18:15",
+    "mins": "60",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Wisteria"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2066",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2067",
+    "title": "Reflections on the day",
+    "date": "2024-09-21",
+    "time": "18:15",
+    "mins": "60",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Wisteria"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2067",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "2068",
+    "title": "Guided mindful meditation",
+    "date": "2024-09-21",
+    "time": "17:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Elsewhere"
+    ],
+    "desc": "meet outside, walk to the park",
+    "people": [
+      {
+        "id": "2068",
+        "name": "Mervi"
+      }
+    ]
+  },
+  {
+    "id": "2069",
+    "title": "Unit testing UI components & HTML templates",
+    "date": "2024-09-21",
+    "time": "11:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2069",
+        "name": "Esko"
+      }
+    ]
+  },
+  {
+    "id": "2070",
+    "title": "Brainstorm idea to predict TS data",
+    "date": "2024-09-21",
+    "time": "10:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2070",
+        "name": "Kale"
+      }
+    ]
+  },
+  {
+    "id": "2071",
+    "title": "Knowledge flow",
+    "date": "2024-09-21",
+    "time": "14:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "Design",
+    "people": [
+      {
+        "id": "2071",
+        "name": "Diana"
+      }
+    ]
+  },
+  {
+    "id": "2072",
+    "title": "BDD reboot",
+    "date": "2024-09-21",
+    "time": "10:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "two exercises from the \"official\" training course",
+    "people": [
+      {
+        "id": "2072",
+        "name": "Seb"
+      }
+    ]
+  },
+  {
+    "id": "2073",
+    "title": "What to do in TECH(?) until PENSION",
+    "date": "2024-09-21",
+    "time": "11:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "in 40 20 20 10 5 1 yrs",
+    "people": [
+      {
+        "id": "2073",
+        "name": "Raimo"
+      }
+    ]
+  },
+  {
+    "id": "2074",
+    "title": "Plurality",
+    "date": "2024-09-21",
+    "time": "14:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Singer"
+    ],
+    "desc": "How can we use technology to support democratic society and not undermine it",
+    "people": [
+      {
+        "id": "2074",
+        "name": "Tom W"
+      }
+    ]
+  },
+  {
+    "id": "2075",
+    "title": "Naked What",
+    "date": "2024-09-21",
+    "time": "14:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "DD without the dogma.  Apache courseway. Hands on if you want (Java)",
+    "people": [
+      {
+        "id": "2075",
+        "name": "Dan"
+      }
+    ]
+  },
+  {
+    "id": "2076",
+    "title": "Database Config Management & Modularisation",
+    "date": "2024-09-21",
+    "time": "11:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Singer"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2076",
+        "name": "Dan Haywood"
+      }
+    ]
+  },
+  {
+    "id": "2078",
+    "title": "How we use Obsidian",
+    "date": "2024-09-21",
+    "time": "15:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2078",
+        "name": "Henrik"
+      }
+    ]
+  },
+  {
+    "id": "2079",
+    "title": "Next SoCraTes UK",
+    "date": "2024-09-21",
+    "time": "16:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Crimson Birch"
+    ],
+    "desc": "How do we organise it usually / Ask me anything",
+    "people": [
+      {
+        "id": "2079",
+        "name": "Amelie"
+      }
+    ]
+  },
+  {
+    "id": "2080",
+    "title": "Best practices for an aspiring software crafter",
+    "date": "2024-09-21",
+    "time": "10:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Singer"
+    ],
+    "desc": "Overcoming the imposter syndrome",
+    "people": [
+      {
+        "id": "2080",
+        "name": "Alex Knapp"
+      }
+    ]
+  },
+  {
+    "id": "2081",
+    "title": "Stories about impact mapping *OR* Showcase real BDD process",
+    "date": "2024-09-21",
+    "time": "15:00",
+    "mins": "50",
+    "tags": [
+      "pull",
+      "",
+      ""
+    ],
+    "loc": [
+      "Singer"
+    ],
+    "desc": "(from you not me) ",
+    "people": [
+      {
+        "id": "2081",
+        "name": "Marko"
+      }
+    ]
+  },
+  {
+    "id": "2082",
+    "title": "Your code as a database",
+    "date": "2024-09-21",
+    "time": "11:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Wisteria"
+    ],
+    "desc": "What would you query?",
+    "people": [
+      {
+        "id": "2082",
+        "name": "Gabriel"
+      }
+    ]
+  },
+  {
+    "id": "2083",
+    "title": "Challenges when dealing with time-dependent & historical data",
+    "date": "2024-09-21",
+    "time": "11:30",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Crimson Birch"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2083",
+        "name": "Corinna"
+      }
+    ]
+  },
+  {
+    "id": "2084",
+    "title": "Chesstime (Cont).",
+    "date": "2024-09-21",
+    "time": "16:00",
+    "mins": "50",
+    "tags": [
+      "Kotlin",
+      "mob",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "Help me refactor my legacy code now it's in Kotlin",
+    "people": [
+      {
+        "id": "2084",
+        "name": "Anita"
+      }
+    ]
+  },
+  {
+    "id": "2085",
+    "title": "I need 28 thoughtful / gratitude reflection style questions",
+    "date": "2024-09-21",
+    "time": "15:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2085",
+        "name": "Nick H"
+      }
+    ]
+  },
+  {
+    "id": "2086",
+    "title": "JitterTed's TDD Game",
+    "date": "2024-09-21",
+    "time": "21:20",
+    "mins": "110",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Crimson Birch"
+    ],
+    "desc": "Double session thought provoking. Come play",
+    "people": [
+      {
+        "id": "2086",
+        "name": "Clare"
+      }
+    ]
+  },
+  {
+    "id": "2087",
+    "title": "Lightning talks",
+    "date": "2024-09-21",
+    "time": "20:30",
+    "mins": "60",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2087",
+        "name": "Vlad"
+      }
+    ]
+  },
+  {
+    "id": "2088",
+    "title": "Giving and receiving feedback",
+    "date": "2024-09-21",
+    "time": "15:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Wisteria"
+    ],
+    "desc": "How do we ensure our team staysl well oiled?",
+    "people": [
+      {
+        "id": "2088",
+        "name": "Alex Knapp"
+      }
+    ]
+  },
+  {
+    "id": "2089",
+    "title": "LED hula hoop performance",
+    "date": "2024-09-21",
+    "time": "21:30",
+    "mins": "15",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Elsewhere"
+    ],
+    "desc": "In the Garden",
+    "people": [
+      {
+        "id": "2089",
+        "name": "Mervi"
+      }
+    ]
+  },
+  {
+    "id": "2090",
+    "title": "Writing \"async chat\"",
+    "date": "2024-09-21",
+    "time": "",
+    "mins": "",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Slack"
+    ],
+    "desc": "virtual/async",
+    "people": [
+      {
+        "id": "2090",
+        "name": "Diane"
+      }
+    ]
+  },
+  {
+    "id": "2091",
+    "title": "Unionizing in Tech",
+    "date": "2024-09-21",
+    "time": "12:30",
+    "mins": "60",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Restaurant"
+    ],
+    "desc": "Opinions? Experience?",
+    "people": [
+      {
+        "id": "2091",
+        "name": "Anita"
+      }
+    ]
+  },
+  {
+    "id": "2092",
+    "title": "Recently diagnosed or undiagnosed autistic",
+    "date": "2024-09-21",
+    "time": "17:00",
+    "mins": "60",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rose"
+    ],
+    "desc": "I was diagnosed last week, Ask me Anything",
+    "people": [
+      {
+        "id": "2092",
+        "name": "Clare"
+      }
+    ]
+  },
+  {
+    "id": "2093",
+    "title": "Let's do a Kata",
+    "date": "2024-09-21",
+    "time": "17:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Fuchsia"
+    ],
+    "desc": "(or was it 'kaba'?)",
+    "people": [
+      {
+        "id": "2093",
+        "name": "Nick H"
+      }
+    ]
+  },
+  {
+    "id": "2094",
+    "title": "Wiki refactoring (SoCraTesUK)",
+    "date": "2024-09-21",
+    "time": "15:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Elsewhere"
+    ],
+    "desc": "Sofas by reception",
+    "people": [
+      {
+        "id": "2094",
+        "name": "Amelie"
+      }
+    ]
+  },
+  {
+    "id": "2095",
+    "title": "Sunday lunch at a pub",
+    "date": "2024-09-22",
+    "time": "12:00",
+    "mins": "90",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Elsewhere"
+    ],
+    "desc": "if (raining) { The Packhorse (5 min walk) } else { the Wheatsheaf in East Hendred (3.5mi walk)}",
+    "people": [
+      {
+        "id": "2095",
+        "name": "Anita"
+      }
+    ]
+  },
+  {
+    "id": "2096",
+    "title": "(Not) Boring Postgres",
+    "date": "2024-09-21",
+    "time": "17:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Singer"
+    ],
+    "desc": "Your database can do more than  you think. But should it?",
+    "people": [
+      {
+        "id": "2096",
+        "name": "Niklas"
+      }
+    ]
+  },
+  {
+    "id": "2097",
+    "title": "Example Mapping (again)",
+    "date": "2024-09-21",
+    "time": "14:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Crimson Birch"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2097",
+        "name": "Ciaran"
+      }
+    ]
+  },
+  {
+    "id": "2098",
+    "title": "Software Green Software Delivery",
+    "date": "2024-09-21",
+    "time": "16:00",
+    "mins": "50",
+    "tags": [
+      "",
+      "",
+      ""
+    ],
+    "loc": [
+      "Singer"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2098",
+        "name": "Tim"
+      }
+    ]
+  }
+]
